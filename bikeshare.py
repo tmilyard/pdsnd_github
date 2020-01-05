@@ -47,7 +47,7 @@ def get_filters():
         day = input("Choose a day:  'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', or 'all':    ").lower()
         valid_days = ("monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday", "all")
         if day in valid_days:
-            print("** Valid Day Accepted **")
+            print("** Valid Input Day Verified **")
             break
         else:
             print("please try again")
