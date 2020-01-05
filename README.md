@@ -16,3 +16,7 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Addition  
 Creating a new note per the project so as to test the functionality of the new branch "documentation"
+
+
+### Addition No2
+Adding a second README change per rubric part 3
