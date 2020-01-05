@@ -1,5 +1,6 @@
 import time
 import pandas as pd
+
 import numpy as np
 
 CITY_DATA = { 'chicago': 'chicago.csv',
@@ -244,7 +245,7 @@ def show_raw_data(df):
                 print(df.iloc[start_range:end_range])
                 start_range += 5
                 end_range += 5
-            else: 
+            else:
                 break
     else:
         print("Ok, maybe next time.\n")
