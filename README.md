@@ -1,22 +1,21 @@
-### Date created
-Include the date you created this project and README file.
+### This project was created on January 4th, 2020.
 
-### Project Title
-Replace the Project Title
+### Bikeshare Data
 
-### Description
-Describe what your project is about and what it does
+### This project allows a user to access and understand ridership details
 
 ### Files used
-Include the files used
+There is one python file **bikeshare.py**
+There are three data files:
+1. chicago.csv
+2. new_york_city.csv
+3. washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I referenced the following sites while completing my assignment
 
-
-### Addition  
-Creating a new note per the project so as to test the functionality of the new branch "documentation"
-
-
-### Addition No2
-Adding a second README change per rubric part 3
+https://stackoverflow.com/questions/48590268/pandas-get-the-most-frequent-values-of-a-column/48590361
+https://realpython.com/python-while-loop/
+http://www.datasciencemadesimple.com/get-minimum-value-column-python-pandas/
+https://dfrieds.com/data-analysis/value-counts-python-pandas
+https://knowledge.udacity.com/questions/44837.
