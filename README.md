@@ -1,22 +1,19 @@
-### Date created
-Include the date you created this project and README file.
+### This project was created on January 4th, 2020
 
-### Project Title
-Replace the Project Title
+### BikeShare Ridership Analysis
 
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### This Project allows the user to interact with rider data
 
 
-### Addition  
-Creating a new note per the project so as to test the functionality of the new branch "documentation"
+### Three data files were used
+1) chicago.csv
+2) washington.csv
+3) new_york_city.csv
 
 
-### Addition No2
-Adding a second README change per rubric part 3
+### References
+https://stackoverflow.com/questions/48590268/pandas-get-the-most-frequent-values-of-a-column/48590361
+https://realpython.com/python-while-loop/
+http://www.datasciencemadesimple.com/get-minimum-value-column-python-pandas/
+https://dfrieds.com/data-analysis/value-counts-python-pandas
+https://knowledge.udacity.com/questions/44837
