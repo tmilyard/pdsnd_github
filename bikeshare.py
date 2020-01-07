@@ -24,7 +24,7 @@ def get_filters():
         city = input("Choose a city: 'chicago', 'new york city' or 'washington':    ").lower()
         valid_cities = ("chicago","new york city","washington")
         if city in valid_cities:
-            print("** Valid Input City Verified **")
+            print("** Valid City Verified **")
             break
         else:
             print("please try again")
@@ -35,7 +35,7 @@ def get_filters():
         month = input("Choose a month:  'january', 'february', 'march', 'april', 'may', 'june', or 'all':    ").lower()
         valid_months = ("january", "february", "march", "april", "may", "june", "all")
         if month in valid_months:
-            print("** Valid Input Month Verified **")
+            print("** Valid Month Verified **")
             break
         else:
             print("please try again")
@@ -47,7 +47,7 @@ def get_filters():
         day = input("Choose a day:  'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', or 'all':    ").lower()
         valid_days = ("monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday", "all")
         if day in valid_days:
-            print("** Valid Input Day Verified **")
+            print("** Valid Day Verified **")
             break
         else:
             print("please try again")
