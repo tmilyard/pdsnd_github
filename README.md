@@ -17,3 +17,6 @@ https://realpython.com/python-while-loop/
 http://www.datasciencemadesimple.com/get-minimum-value-column-python-pandas/
 https://dfrieds.com/data-analysis/value-counts-python-pandas
 https://knowledge.udacity.com/questions/44837
+
+### Other Notes
+This data will expand to Dallas and Los Angeles in 2021
