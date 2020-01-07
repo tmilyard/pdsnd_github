@@ -4,9 +4,6 @@
 
 ### This project allows a user to access and understand ridership details
 
-### Files used
-Include the files used
-
 ### Three data files were used
 1) chicago.csv
 2) washington.csv
